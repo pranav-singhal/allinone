@@ -23,7 +23,16 @@ h1,h2,h3,h4,h5,h6,label,p{
 	margin:0;	
 }
 
-
+.qa_forum{
+	padding: 8px 12px;
+	background-color: brown;
+	color: white;
+	position: fixed;
+	bottom: 4px;
+	right: 3px;
+	z-index: 9999;
+	cursor: pointer;
+}
 /*--banner--*/
 /*--w3layouts--*/
 /*--agile--*/
