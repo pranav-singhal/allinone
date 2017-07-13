@@ -2,9 +2,9 @@
 CSS Credit: http://www.templatemo.com/
 */
 
-/* 
-Book Store Template 
-http://www.templatemo.com/preview/templatemo_086_book_store 
+/*
+Book Store Template
+http://www.templatemo.com/preview/templatemo_086_book_store
 */
 body {
 	margin: 0;
@@ -12,11 +12,11 @@ body {
 	line-height: 1.5em;
 	font-family: Verdana, Arial, san-serif;
 	font-size: 11px;
-	color: #ffffff;
+	color: #4b4743;
 	background: #4b4743;
 }
 
-a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
+a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;}
 a:active, a:hover { color: #e6e154; text-decoration: underline;}
 
 p {
@@ -35,21 +35,21 @@ img {
 	clear: both;
 	width: 100%;
 	height: 1px;
-	font-size: 1px;	
+	font-size: 1px;
 }
 
 .cleaner_with_height {
 	clear: both;
 	width: 100%;
 	height: 30px;
-	font-size: 1px;	
+	font-size: 1px;
 }
 
 .cleaner_with_width {
 	float: left;
 	width: 20px;
 	height: 30px;
-	font-size: 1px;	
+	font-size: 1px;
 }
 
 .buy_now_button a{
@@ -58,7 +58,7 @@ img {
 	display: block;
 	width: 100px;
 	padding: 4px 0 5px 0;
-	margin-bottom: 10px; 
+	margin-bottom: 10px;
 	background: url(/images/templatemo_btn_02.jpg) no-repeat;
 	color: #FFFFFF;
 	font-weight: bold;
@@ -71,7 +71,7 @@ img {
 	display: block;
 	width: 100px;
 	padding: 4px 0 5px 0;
-	margin-bottom: 10px; 
+	margin-bottom: 10px;
 	background: url(/images/templatemo_btn_01.jpg) no-repeat;
 	color: #ffffff;
 	font-weight: bold;
@@ -137,7 +137,7 @@ img {
 
 #templatemo_header #templatemo_special_offers {
 	float: left;
-	font-size: 14px;	
+	font-size: 14px;
 	margin-top: 95px;
 	margin-left: 490px;
 	width: 180px;
@@ -156,7 +156,7 @@ img {
 
 #templatemo_header #templatemo_new_books {
 	float: left;
-	margin-top: 90px;	
+	margin-top: 90px;
 	margin-left: 55px;
 	width: 180px;
 }
@@ -168,7 +168,7 @@ img {
 
 #templatemo_new_books li {
 	 margin: 0;
-	 padding: 0; 
+	 padding: 0;
 }
 
 
@@ -217,7 +217,7 @@ img {
 }
 
 .templatemo_content_left_section ul li{
-	padding: 0 0 3px 10px;	
+	padding: 0 0 3px 10px;
 	list-style: none;
 }
 
