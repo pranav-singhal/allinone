@@ -1,0 +1,30 @@
+// Place all the styles related to the courses controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+#coursehtml{
+  background: white;
+
+}
+
+
+#coursebody{
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+  color:black;
+  font-family: "Whitney SSm A", "Whitney SSm B", "Lucida Grande", "Lucida Sans", Verdana, Helvetica, Arial, sans-serif
+}
+
+
+#courseaside {
+  width: 20.5vw;
+  height:100vh;
+  background-color: #42444E;
+  h3 {
+    width:inherit;
+    text-align: center;
+  }
+
+}

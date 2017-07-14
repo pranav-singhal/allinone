@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :course_makers
+  resources :courses
   get 'home/index'
   get '/shop'=>'home#shop'
    root to: "home#index"

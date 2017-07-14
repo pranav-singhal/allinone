@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Course:</strong>
+  <%= @course_maker.course %>
+</p>
+
+<p>
+  <strong>Page number:</strong>
+  <%= @course_maker.page_number %>
+</p>
+
+<p>
+  <strong>Page heading:</strong>
+  <%= @course_maker.page_heading %>
+</p>
+
+<p>
+  <strong>Page content:</strong>
+  <%= @course_maker.page_content %>
+</p>
+
+<%= link_to 'Edit', edit_course_maker_path(@course_maker) %> |
+<%= link_to 'Back', course_makers_path %>
