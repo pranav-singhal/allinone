@@ -55,7 +55,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .logo  a{
   font-size: 3em;
-    color: #fff;
+    color: #BCB63E;
     font-family: 'Oswald', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
@@ -73,10 +73,10 @@ h1,h2,h3,h4,h5,h6,label,p{
 		text-decoration:none;
 	}
 	.logo span {
-    border: 7px solid #fff;
+    border: 7px solid #BCB63E;
     padding: 0 10px;
     border-right: none;
-    color: #00b140;
+    color: #BCB63E;
 }
 /*---*/
 .header-menu{
@@ -89,29 +89,29 @@ h1,h2,h3,h4,h5,h6,label,p{
    float:left;
 }
 .navbar-default .navbar-nav > .active > a{
-    color: #FFF;
+    color: #BCB63E;
     background:none;
 }
 
  .navbar-default .navbar-nav > .active > a:hover,
  .navbar-default .navbar-nav > .active > a:focus {
-    color: #FFF;
+    color: #BCB63E;
     background:#ff6900;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #FFF;
+    color: #BCB63E;
     font-size: 1.2em;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #FFFFFF;
+    color: #BCB63E;
     background-color: #ff6900;
     outline: none;
 }
 .navbar-default .navbar-nav > .open > a,
  .navbar-default .navbar-nav > .open > a:hover,
  .navbar-default .navbar-nav > .open > a:focus {
-    color: #FFF;
+    color: #BCB63E;
     background-color: #ff6900;
 }
 .dropdown-menu {
@@ -227,7 +227,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .banner h1{
     font-size: 2.5em;
-    color: #fff;
+    color: #BCB63E;
     font-family: 'Oswald', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
@@ -235,7 +235,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .banner h2{
 	font-size:2.5em;
-	color:#ff6900;
+	color:#BCB63E;
 	margin-top:0.3em;
     font-family: 'Oswald', sans-serif;
     font-weight: 900;
@@ -251,7 +251,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	position:relative;
 }
 .content-plan{
-	background: #fff;
+	background: #1C1C1C;
     padding:3em 2em 2em;
     position: absolute;
     text-align: center;
@@ -269,10 +269,10 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .content-plan h6 a{
 	text-decoration:none;
-    color: #00b140;
+    color: #CBC750;
 }
 .content-plan h6 a:hover{
-    color: #ff6900;
+    color: #CBC750;
 }
 .content-plan p {
     font-size: 1.2em;
@@ -287,7 +287,8 @@ h1,h2,h3,h4,h5,h6,label,p{
     position: absolute;
     bottom: 11%;
     background-color: #ff6900;
-    color: #fff;
+		background: url(http://localhost:3000/images/templatemo_menu_bg.jpg);
+    color: #CBC73D;
     padding: 0.2em 1em;
     left: 41%;
 }
@@ -299,7 +300,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .content-mid2{
 	padding:5em 2em;
-	background-color: #FCFCFC;
+	background-color: #1C1C1C;
 }
 .content-mid-img{
 	background: url(../images/pi1.jpg) no-repeat center;
@@ -326,14 +327,16 @@ h1,h2,h3,h4,h5,h6,label,p{
 	    margin-bottom: 0.5em;
 }
 .grid-mid h3{
-	color: #ff6900;
+	color: #B6B340;
+	background: url(http://localhost:3000/images/templatemo_menu_bg.jpg);
+
     font-size: 3em;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
 }
 .grid-mid p {
     font-size: 1.2em;
-    color: #7C7C7C;
+    color: #4B473F;
     line-height: 1.7em;
 	    margin-top: 0.5em;
 }
@@ -344,7 +347,7 @@ h1,h2,h3,h4,h5,h6,label,p{
     letter-spacing: 1px;
 }
 .news-in h5 a{
-	color: #00b140;
+	color: #CBC750;
     text-decoration:none;
 }
 .news-in h5 a:hover{
@@ -352,7 +355,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .news-in p {
   font-size: 1.2em;
-  color: #7C7C7C;
+  color: #4B473F;
   line-height: 1.7em;
 }
 .news-in,.latest-grid {
@@ -398,7 +401,9 @@ h1,h2,h3,h4,h5,h6,label,p{
 	position:relative;
 }
 .feature-top h3 {
-    color: #ff6900;
+    color: #B6B340;
+		background: url(http://localhost:3000/images/templatemo_menu_bg.jpg);
+
     font-size: 3em;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
@@ -1738,6 +1743,8 @@ h1.grid2 {
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
+		background: url(http://localhost:3000/images/templatemo_menu_bg.jpg);
+
 }
 .navbar-nav .open .dropdown-menu {
     background-color: #ff6900;
@@ -1755,6 +1762,8 @@ h1.grid2 {
 }
 .navbar-nav {
        background-color: #1f2121;
+
+
     text-align: center;
 }
 /*--typo--*/
@@ -2880,3 +2889,12 @@ td.add-check a {
     width: 86px;
 }
 }
+<<<<<<< HEAD
+=======
+
+.clearfix{
+	z-index: 100;
+	background:url(background: url(http://localhost:3000/images/templatemo_menu_bg.jpg);
+)
+}
+>>>>>>> shop_test
